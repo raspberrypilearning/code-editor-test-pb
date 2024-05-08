@@ -1,0 +1,3 @@
+name: 'GH direct test - no main'
+identifier: 'pete-testing-editor-build'
+type: 'python'
